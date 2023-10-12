@@ -47,7 +47,7 @@ minikube addons enable metrics-server
 Now tunnel the minikube node to localhost: `minikube tunnel`
 
 - Access the FastAPI docs page: `clip.localhost/docs`
-![Screenshot](Images\clip_fastapi_swagger.JPG)
+![Screenshot](Images/clip_fastapi_swagger.JPG)
 
 ## Steps to check details
 
