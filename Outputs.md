@@ -1,7 +1,5 @@
 1. Get details of deployment: `kubectl describe deployment clip-deployment`
-<br>
 ![Screenshot](Images/deployment_describe.JPG)
-
 
 2. Get details of the pods: `kubectl describe <your_pod>`
 ![Screenshot](Images/pod_describe.JPG)
@@ -16,5 +14,5 @@
 ![Screenshot](Images/top_node.JPG)
 
 6. Get details of all yaml configuration: `kubectl get all -A -o yaml`
-- [Configration Yaml](Images/get_all.txt)
+![Configration Yaml](Images/get_all.txt)
 
